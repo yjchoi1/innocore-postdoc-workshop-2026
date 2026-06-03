@@ -96,6 +96,19 @@ All notebooks run on **Google Colab** — no local setup required. Replace `"YOU
    ```
 3. Run all cells top to bottom
 
+### Opening Notebooks from this Repository in Colab
+
+1. Click the notebook link in the table above
+2. On the GitHub preview page, click the **Download raw file** button (↓ icon, top-right)
+3. Save the `.ipynb` file to your computer
+4. Go to [colab.research.google.com](https://colab.research.google.com)
+5. Click **File → Upload notebook** → select the downloaded `.ipynb` file
+6. Set your API key in the first cell and run!
+
+> 💡 Alternatively: **File → Open notebook → GitHub tab** → paste this repo's URL
+
+---
+
 ### Dependencies
 
 ```
