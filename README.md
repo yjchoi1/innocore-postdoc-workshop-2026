@@ -36,9 +36,13 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 
 | Time | Program | Venue |
 |------|---------|-------|
-| 10:00 – 12:00 | **LLM Lecture (1)** — *"Setting Up Environments for Multi-Agent Systems"* · Junhyeong Lee | 중앙회의동 해동정보홀 |
+| 10:00 – 12:00 | **LLM Lecture (1)** | 중앙회의동 해동정보홀 |
+| | &nbsp;&nbsp;· Colab environment setup + LangChain tutorial · Jonmin Park | |
+| | &nbsp;&nbsp;· RAG tutorial · Junhyeong Lee | |
 | 12:00 – 13:00 | Lunch | KAIST 카이마루 |
-| 13:00 – 15:00 | **LLM Lecture (2)** — *"Applying Multi-Agent Systems to Your Research"* · Junhyeong Lee | 중앙회의동 해동정보홀 |
+| 13:00 – 15:00 | **LLM Lecture (2)** | 중앙회의동 해동정보홀 |
+| | &nbsp;&nbsp;· Multi-agent system development · Junhyeong Lee | |
+| | &nbsp;&nbsp;· Vibe coding tools · Hyeok Jae Chae, Wonjong Jeong | |
 
 > ※ Schedule is subject to minor changes.
 
