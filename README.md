@@ -1,5 +1,4 @@
 # 2026 PRISM-AI InnoCORE Workshop
-### LLM Tutorial Materials
 
 > **PRISM-AI InnoCORE Research Center, KAIST**  
 > Dept. of Mechanical Engineering · June 4–5, 2026  
