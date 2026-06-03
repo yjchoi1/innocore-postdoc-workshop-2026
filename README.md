@@ -25,7 +25,7 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 | Time | Program | Venue |
 |------|---------|-------|
 | 13:30 – 14:00 | Registration & Check-in | KAIST 기계공학동 대회의실 |
-| 14:00 – 15:00 | **Invited Lecture** — *"Postdoc Career Development"* · Prof. Yoon-Young Kim | KAIST 기계공학동 대회의실 |
+| 14:00 – 15:00 | **Invited Lecture** — *"Postdoc Career Development"* · [Prof. Yoon Young Kim](https://www.yykimlab.net/) | KAIST 기계공학동 대회의실 |
 | 15:00 – 16:00 | **InnoCORE Program Talk & Q&A** · Prof. Seunghwa Ryu (Director) | KAIST 기계공학동 대회의실 |
 | 16:00 – 16:30 | Coffee Break | 중앙회의동 해동정보홀 |
 | 16:30 – 18:00 | **Poster Session** — postdoc research presentations | 중앙회의동 해동정보홀 |
