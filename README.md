@@ -84,10 +84,3 @@ autogen-agentchat autogen-ext[openai] nest_asyncio
 ```
 
 
----
-
-## Contact
-
-**Junhyeong Lee** — LLM Lecture  
-KAIST InnoCORE PRISM-AI Center  
-junhyeong8831@gmail.com
