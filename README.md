@@ -38,12 +38,12 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 | Time | Program | Venue |
 |------|---------|-------|
 | 10:00 – 12:00 | **LLM Lecture (1)** | 중앙회의동 해동정보홀 |
-| | &nbsp;&nbsp;· Colab environment setup + LangChain tutorial · Jonmin Park | |
-| | &nbsp;&nbsp;· RAG tutorial · Junhyeong Lee | |
+| | &nbsp;&nbsp;· Colab environment setup + LangChain tutorial · Jonmin Park, Ph.D. (PRISM-AI) | |
+| | &nbsp;&nbsp;· RAG tutorial · Junhyeong Lee, Ph.D. (PRISM-AI) | |
 | 12:00 – 13:00 | Lunch | KAIST 카이마루 |
 | 13:00 – 15:00 | **LLM Lecture (2)** | 중앙회의동 해동정보홀 |
-| | &nbsp;&nbsp;· Multi-agent system development · Junhyeong Lee | |
-| | &nbsp;&nbsp;· Vibe coding tools · Hyeok Jae Chae, Wonjong Jeong | |
+| | &nbsp;&nbsp;· Multi-agent system development · Junhyeong Lee, Ph.D. (PRISM-AI) | |
+| | &nbsp;&nbsp;· Vibe coding tools · Hyeok Jae Chae, Wonjong Jeong (PRISM-AI) | |
 
 > ※ Schedule is subject to minor changes.
 
