@@ -10,7 +10,7 @@
 
 | | |
 |-|-|
-| **Network** | `kaist_innocore` |
+| **Network** | `welcome_kaist` |
 | **Password** | `prismai1!` |
 
 ---
