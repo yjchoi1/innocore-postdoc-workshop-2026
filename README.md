@@ -6,6 +6,15 @@
 
 ---
 
+## Wi-Fi
+
+| | |
+|-|-|
+| **Network** | `kaist_innocore` |
+| **Password** | `prismai1!` |
+
+---
+
 ## Overview
 
 This repository contains hands-on tutorial notebooks for the **LLM lecture session** of the 2026 PRISM-AI InnoCORE Workshop. The workshop brings together postdoctoral researchers across the PRISM-AI consortium to share research progress, explore collaboration opportunities, and build practical AI skills.
