@@ -79,6 +79,14 @@ This repository contains hands-on tutorial notebooks for the **LLM lecture sessi
 
 ---
 
+## Lecture Materials
+
+All lecture materials (slides, references, etc.) are available at the link below:
+
+👉 [Google Drive — Lecture Materials](https://drive.google.com/drive/folders/1sstAhb5Ila3hLeQYLJpQXY6FXs84cDY3?usp=drive_link)
+
+---
+
 ## Tutorial Notebooks
 
 All notebooks run on **Google Colab** — no local setup required. Replace `"YOUR API KEY"` with your OpenAI API key in the first cell.
